@@ -1,0 +1,4 @@
+O processador é o Intel Core í3-1005G1 CPU tem uma frequencia de 1200000000 Hz, fazendo 1200000000 de ciclos por segundo, tendo 64 bits o valor de memória máximo é de 7.7 GB
+
+![Alt text](imagem.PNG)
+![Alt text](imagem2.PNG)
